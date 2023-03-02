@@ -1,0 +1,17 @@
+<xml>
+    <page>
+        <title>Chay</title>
+        <id>1</id>
+        <text>hey my name is Chay</text>
+    </page>
+    <page>
+        <title>Hackensack</title>
+        <id>2</id>
+        <text> hackensack [[NJ]] is where I live in [[NJ]]</text>
+    </page>
+    <page>
+        <title>NJ</title>
+        <id>3</id>
+        <text> The best state in the country [[Chay]] lives there </text>
+    </page>
+</xml>
